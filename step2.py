@@ -3,9 +3,14 @@
 # При нечетном количестве элементов последний сохранить на своем месте.
 # Для заполнения списка элементов необходимо использовать функцию input().
 
-
+num = int(input('Введите размер списка: '))
 list = []
-
-for item in range(1, 5):
+count = 0
+for item in range(1, num):
     list.append(input('Введите что угодно: '))
-print(list)
+print(f'Вы ввели список: {list}')
+for element in range(int(len(list) / 2)):
+    list[count], list[count + 1] = list[count + 1], list[count]
+    count += 2
+
+print(f'Ваш попарно измененный список{list}')

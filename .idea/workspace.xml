@@ -19,9 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85895788-18dc-4348-a0b7-d2a70c354ae1" name="Default Changelist" comment="del files">
-      <change afterPath="$PROJECT_DIR$/step2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/step1.py" afterDir="false" />
+    <list default="true" id="85895788-18dc-4348-a0b7-d2a70c354ae1" name="Default Changelist" comment="add step2 files">
+      <change afterPath="$PROJECT_DIR$/step3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/step2.py" beforeDir="false" afterPath="$PROJECT_DIR$/step2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +57,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RunManager" selected="Python.step2">
     <configuration name="step1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -120,7 +122,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607539450110</updated>
       <workItem from="1607539451182" duration="472000" />
-      <workItem from="1607707694166" duration="2566000" />
+      <workItem from="1607707694166" duration="5133000" />
     </task>
     <task id="LOCAL-00001" summary="del files">
       <created>1607539477263</created>
@@ -150,7 +152,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607539730805</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add step2 files">
+      <created>1607712280203</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607712280203</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add step2 files">
+      <created>1607712314756</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607712314756</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,28 +186,45 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="del files" />
-    <option name="LAST_COMMIT_MESSAGE" value="del files" />
+    <MESSAGE value="add step2 files" />
+    <option name="LAST_COMMIT_MESSAGE" value="add step2 files" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1607709933973">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1607715146433">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607709933973" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1607709933973">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607715146433" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1607715146433">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607709933973" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1607709933973">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607715146433" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1607715146433">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607709933973" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1607709933973">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607715146433" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1607715146433">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607709933973" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607715146433" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1607713484540">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607713484540" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1607713484540">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607713484540" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1607713484540">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607713484540" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1607713484540">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607713484540" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/geek_python$step1.coverage" NAME="step1 Coverage Results" MODIFIED="1607709077016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/geek_python$step2.coverage" NAME="step2 Coverage Results" MODIFIED="1607709933959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/geek_python$step1.coverage" NAME="step1 Coverage Results" MODIFIED="1607713151690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/geek_python$step2.coverage" NAME="step2 Coverage Results" MODIFIED="1607715146423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
