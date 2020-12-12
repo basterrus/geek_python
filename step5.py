@@ -9,12 +9,12 @@
 # Набор натуральных чисел можно задать непосредственно в коде, например, my_list = [7, 5, 3, 3, 2].
 
 my_list = [7, 5, 3, 3, 2]
-rating = input('Введите число')
 
-# # Вывод первых 10 букв в слове
-# for i, el in enumerate(rating):
-#     print(f'{i}: {el:.10}')
-# print(rating.sort)
-
-my_list.append(rating)
-print(my_list)
+i = 0
+while i< 5:
+    rating = int(input('Введите число'))
+    my_list.append(rating)
+    my_list.sort()
+    my_list.reverse()
+    i += 1
+    print(my_list)
