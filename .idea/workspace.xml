@@ -21,8 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="85895788-18dc-4348-a0b7-d2a70c354ae1" name="Default Changelist" comment="****">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/step5.py" beforeDir="false" afterPath="$PROJECT_DIR$/step5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/step6.py" beforeDir="false" afterPath="$PROJECT_DIR$/step6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,7 +190,7 @@
       <updated>1607539450110</updated>
       <workItem from="1607539451182" duration="472000" />
       <workItem from="1607707694166" duration="7151000" />
-      <workItem from="1607792144653" duration="5716000" />
+      <workItem from="1607792144653" duration="6264000" />
     </task>
     <task id="LOCAL-00001" summary="del files">
       <created>1607539477263</created>
@@ -250,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607792298657</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="****">
+      <created>1607801302106</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1607801302106</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -276,22 +281,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="****" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1607800958979">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1607801566527">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607800958979" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1607800958979">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607801566527" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1607801566527">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607800958979" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1607800958979">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607801566527" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1607801566527">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607800958979" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1607800958979">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607801566527" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1607801566527">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607800958979" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607801566527" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1607717203720">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
