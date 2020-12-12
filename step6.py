@@ -14,3 +14,8 @@ quantity = int(input('Введите количество товара: '))
 
 product_db.extend(count, {name})
 print(product_db)
+
+
+# for k, v in data.items():
+#     print(k, ":", v)
+

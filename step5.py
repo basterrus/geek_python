@@ -11,10 +11,12 @@
 my_list = [7, 5, 3, 3, 2]
 
 i = 0
-while i< 5:
+while i < 5:
     rating = int(input('Введите число'))
     my_list.append(rating)
     my_list.sort()
     my_list.reverse()
     i += 1
     print(my_list)
+
+# Такое ощущение что под ответ подогнал ))
