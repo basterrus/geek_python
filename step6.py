@@ -7,15 +7,26 @@
 # (1, {'Наименование': 'Смартфон Apple', 'Цена': '50000', 'Количество': '2', 'ЕИ': 'штука'})
 
 product_db = []
-count = 0
-name = input('Введите наименование товара: ')
-price = int(input('Введите цену товара: '))
-quantity = int(input('Введите количество товара: '))
+count = 1
+while count < 5:
+    print(f'Товар {count}')
+    name = input('Введите наименование товара: ')
+    price = int(input('Введите цену товара: '))
+    quantity = int(input('Введите количество товара: '))
+    unit = input('Введите единицу измерения: ')
+    product_db.append((count, {'Наименование':name, 'Цена': price, 'Количество': quantity, 'ЕИ': unit}))
+    count += 1
 
-product_db.extend(count, {name})
-print(product_db)
+answer = int(input('Введите -1 если вывести список отсортированный по наименованию\n\t\t-2 если вывести список '
+                'отсортированный по цене\n\t\t-3 список отсортированный по количество\n'))
 
+while countansw < count:
+    if answer == 1:
 
-# for k, v in data.items():
-#     print(k, ":", v)
+        print(product_db.sort(key=lambda x: (x[0], x[1])))
+    elif answer == 2:
 
+        print(product_db.sort('Цена'))
+    elif answer == 3:
+
+        print(product_db.sort('Количество'))
