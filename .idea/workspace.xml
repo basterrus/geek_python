@@ -20,9 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85895788-18dc-4348-a0b7-d2a70c354ae1" name="Default Changelist" comment="****">
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/step6.py" beforeDir="false" afterPath="$PROJECT_DIR$/step6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +59,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.step6">
     <configuration name="step1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="geek_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -172,8 +172,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test" />
         <item itemvalue="Python.step6" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.step5" />
         <item itemvalue="Python.step1" />
         <item itemvalue="Python.step4" />
@@ -195,6 +195,7 @@
       <workItem from="1607792144653" duration="6264000" />
       <workItem from="1607801730945" duration="1973000" />
       <workItem from="1607803755904" duration="727000" />
+      <workItem from="1607843486644" duration="8810000" />
     </task>
     <task id="LOCAL-00001" summary="del files">
       <created>1607539477263</created>
@@ -285,38 +286,38 @@
     <option name="LAST_COMMIT_MESSAGE" value="****" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1607804488713">
+    <state width="1877" height="320" key="GridCell.Tab.0.bottom" timestamp="1607860064149">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607804488713" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1607804488713">
+    <state width="1877" height="320" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607860064149" />
+    <state width="1877" height="320" key="GridCell.Tab.0.center" timestamp="1607860064149">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607804488713" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1607804488713">
+    <state width="1877" height="320" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607860064149" />
+    <state width="1877" height="320" key="GridCell.Tab.0.left" timestamp="1607860064149">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607804488713" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1607804488713">
+    <state width="1877" height="320" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607860064149" />
+    <state width="1877" height="320" key="GridCell.Tab.0.right" timestamp="1607860064149">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607804488713" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1607803720192">
+    <state width="1877" height="320" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607860064149" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1607858911107">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607803720192" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1607803720192">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607858911107" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1607858911107">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607803720192" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1607803720192">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607858911107" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1607858911107">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607803720192" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1607803720192">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607858911107" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1607858911107">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607803720192" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607858911107" />
     <state x="848" y="388" key="MultipleFileMergeDialog" timestamp="1607792295063">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -326,10 +327,21 @@
     </state>
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607798928569" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/geek_python$step3.coverage" NAME="step3 Coverage Results" MODIFIED="1607792255925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/geek_python$step6.coverage" NAME="step6 Coverage Results" MODIFIED="1607803948963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/geek_python$test.coverage" NAME="test Coverage Results" MODIFIED="1607804299103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/geek_python$step6.coverage" NAME="step6 Coverage Results" MODIFIED="1607860064143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/geek_python$test.coverage" NAME="test Coverage Results" MODIFIED="1607858828412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/geek_python$step4.coverage" NAME="step4 Coverage Results" MODIFIED="1607792466394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/geek_python$step2.coverage" NAME="step2 Coverage Results" MODIFIED="1607715146423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/geek_python$step1.coverage" NAME="step1 Coverage Results" MODIFIED="1607792500205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
