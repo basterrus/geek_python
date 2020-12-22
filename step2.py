@@ -7,8 +7,16 @@
 
 
 numbers = [300, 2, 12, 44, 1, 1, 4, 10, 7, 1, 78, 123, 55]
+new_numbers = []
 
-for el in numbers:
-    if numbers[0]
+# Для осмысления логики
+for x in range(len(numbers) - 1):
+    if numbers[x] < numbers[x + 1]:
+        new_numbers.append(numbers[x + 1])
+
+# Для красоты )) нагуглил zip в интернете
+new_numbers_1 = [y for x, y in zip(numbers, numbers[1:]) if y > x]
+
 
 print(new_numbers)
+print(new_numbers_1)
