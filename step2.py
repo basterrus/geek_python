@@ -20,3 +20,4 @@ new_numbers_1 = [y for x, y in zip(numbers, numbers[1:]) if y > x]
 
 print(new_numbers)
 print(new_numbers_1)
+
