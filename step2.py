@@ -6,8 +6,17 @@
 #
 # Например: 20м * 5000м * 25кг * 5см = 12500 т
 
-
 class Road:
-    length = 0
-    width = 0
+    def __init__(self, _length, _width, volume):
+        self._length = _length
+        self._width = _width
+        self.volume = volume
 
+    def mass(self):
+         return (self._length * self._width * self.volume) /1000
+
+
+
+
+r = Road(20, 5000, 125)
+print(f'Требуется асфальта: {r.mass()} тонн')

@@ -11,19 +11,19 @@ init()
 
 
 class TrafficLigth:
-    __color_name = 'Цвет'
+    __color_name =  ['КРАСНЫЙ','ЖЕЛТЫЙ','ЗЕЛЕНЫЙ']
 
     def running(self):
         while True:
-            print(Back.RED + 'КРАСНЫЙ СВЕТ - 7 секунд')
+            print(Back.RED + f'{TrafficLigth.__color_name[0]} СВЕТ - 7 секунд')
             time.sleep(7)
-            print(Back.YELLOW + 'ЖЕЛТЫЙ СВЕТ - 2 секунды')
+            print(Back.YELLOW + f'{TrafficLigth.__color_name[1]} СВЕТ - 2 секунды')
             time.sleep(2)
-            print(Back.GREEN + 'ЗЕЛЕНЫЙ СВЕТ - 10 секунд')
+            print(Back.GREEN + f'{TrafficLigth.__color_name[2]} СВЕТ - 10 секунд')
             time.sleep(10)
 
 
-T = TrafficLigth()
-T.running()
+TrafficLigth = TrafficLigth()
+TrafficLigth.running()
 
 # Надеюсь правильно понял задание, ну и выпендрился с колорамой ))
